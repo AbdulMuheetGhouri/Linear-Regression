@@ -57,3 +57,4 @@ The models in this repository are evaluated using standard regression metrics:
 * Mean Squared Error (MSE)
 * Root Mean Squared Error (RMSE)
 * R² Score (Coefficient of Determination)
+### Author: Abdul Muheet Ghouri.
